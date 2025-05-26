@@ -1,12 +1,56 @@
-# React + Vite
+# 🚀 Huxn WebDev React JS Course – Part 1 (Progress Tracker)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository is dedicated to tracking my learning journey through the **Huxn WebDev React JS Course – Part 1**. The complete Part 1 spans approximately **13 hours** and covers a wide range of React fundamentals and advanced concepts.
 
-Currently, two official plugins are available:
+## ✅ Course Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The course focuses on:
 
-## Expanding the ESLint configuration
+- Building modern web applications using **React JS**
+- Understanding the core fundamentals and hooks
+- Implementing state management using React features
+- Enhancing reusability with custom hooks
+- Practical examples and UI implementations
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📅 Current Progress
+
+- **Total Course Length**: ~13 Hours  
+- **Completed**: ✅ First 4 Hours  
+- **Remaining**: ⏳ ~9 Hours
+
+---
+
+## 🧠 What I’ve Learned So Far (Up to 4 Hours)
+
+### ✅ React Basics
+- JSX
+- Components (Functional)
+- Props & Events
+- State basics
+
+### ✅ React Hooks Covered
+- `useState` – Managing local state in components
+- `useReducer` – Managing more complex state logic
+- `useEffect` – Side effects, lifecycle simulation
+- `useId` – Generating unique IDs (great for accessibility or form fields)
+- `useRef` – Referencing DOM elements and storing mutable values
+- Custom Hooks – Creating reusable logic across components
+
+---
+
+## 🛠️ Upcoming Topics (Expected in Remaining Hours)
+> *Based on course structure and syllabus outline*
+
+- Advanced hooks (e.g., `useMemo`, `useCallback`)
+- Routing with React Router
+- Context API
+- Form handling and validation
+- React best practices and performance optimization
+- Basic project or UI integration examples
+
+---
+
+## 📂 Folder Structure
+
