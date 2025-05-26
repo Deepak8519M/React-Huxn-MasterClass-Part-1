@@ -1,8 +1,8 @@
-# 🚀 Huxn WebDev React JS Course – Part 1 (Progress Tracker)
+# 🚀 `Huxn WebDev React JS Course – Part 1 (Progress Tracker)`
 
 This repository is dedicated to tracking my learning journey through the **Huxn WebDev React JS Course – Part 1**. The complete Part 1 spans approximately **13 hours** and covers a wide range of React fundamentals and advanced concepts.
 
-## ✅ Course Overview
+## ✅ `Course Overview`
 
 The course focuses on:
 
@@ -14,7 +14,7 @@ The course focuses on:
 
 ---
 
-## 📅 Current Progress
+## 📅 `Current Progress`
 
 - **Total Course Length**: ~13 Hours  
 - **Completed**: ✅ First 4 Hours  
@@ -22,15 +22,15 @@ The course focuses on:
 
 ---
 
-## 🧠 What I’ve Learned So Far (Up to 4 Hours)
+## 🧠 `What I’ve Learned So Far (Up to 4 Hours)`
 
-### ✅ React Basics
+### ✅ `React Basics`
 - JSX
 - Components (Functional)
 - Props & Events
 - State basics
 
-### ✅ React Hooks Covered
+### ✅ `React Hooks Covered`
 - `useState` – Managing local state in components
 - `useReducer` – Managing more complex state logic
 - `useEffect` – Side effects, lifecycle simulation
@@ -40,7 +40,7 @@ The course focuses on:
 
 ---
 
-## 🛠️ Upcoming Topics (Expected in Remaining Hours)
+## 🛠️ `Upcoming Topics (Expected in Remaining Hours)`
 > *Based on course structure and syllabus outline*
 
 - Advanced hooks (e.g., `useMemo`, `useCallback`)
@@ -55,7 +55,7 @@ The course focuses on:
 
 ---
 
-## 💡 My Takeaways So Far
+## 💡 `My Takeaways So Far`
 
 - React is powerful yet approachable once you grasp the core idea of components and state.
 - Hooks like `useReducer` make complex state logic more maintainable.
@@ -64,13 +64,13 @@ The course focuses on:
 
 ---
 
-## 📌 Notes
+## 📌 `Notes`
 
 I’ll continue updating this README as I make progress through the rest of the course. My aim is to solidify my React fundamentals before moving to project-based learning and full-stack development.
 
 ---
 
-## 🧭 Next Steps
+## 🧭 `Next Steps`
 
 - Complete the remaining 9 hours
 - Start applying concepts through small projects
