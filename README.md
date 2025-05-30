@@ -48,7 +48,7 @@ The course focuses on:
 - Context API
 - Form handling and validation
 - React best practices and performance optimization
-- Basic project or UI integration examples
+- Basic project or `UI integration` examples
 
 ---
 
@@ -66,16 +66,16 @@ The course focuses on:
 
 ## 📌 `Notes`
 
-I’ll continue updating this README as I make progress through the rest of the course. My aim is to solidify my React fundamentals before moving to project-based learning and full-stack development.
+I’ll continue updating this README as I make progress through the rest of the course. My aim is to solidify my `React fundamentals` before moving to project-based learning and full-stack development.
 
 ---
 
 ## 🧭 `Next Steps`
 
 - Complete the remaining 9 hours
-- Start applying concepts through small projects
-- Dive into React Router and Context API
-- Practice component structure and state management
+- Start applying concepts through `small projects`
+- Dive into `React Router` and `Context API`
+- Practice `component structure` and `state management`
 
 ---
 
