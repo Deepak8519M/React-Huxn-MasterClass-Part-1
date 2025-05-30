@@ -44,9 +44,9 @@ The course focuses on:
 > *Based on course structure and syllabus outline*
 
 - Advanced hooks (e.g., `useMemo`, `useCallback`)
-- Routing with React Router
+- Routing with `React Router`
 - Context API
-- Form handling and validation
+- Form `handling` and `validation`
 - React best practices and performance optimization
 - Basic project or `UI integration` examples
 
@@ -57,10 +57,10 @@ The course focuses on:
 
 ## 💡 `My Takeaways So Far`
 
-- React is powerful yet approachable once you grasp the core idea of components and state.
+- React is `powerful` yet approachable once you grasp the core idea of `components` and `state.`
 - Hooks like `useReducer` make complex state logic more maintainable.
-- Custom hooks encourage cleaner and more reusable code structures.
-- Side effects and DOM references are easily managed with `useEffect` and `useRef`.
+- Custom hooks encourage cleaner and more `reusable code structures.`
+- Side effects and `DOM references` are easily managed with `useEffect` and `useRef`.
 
 ---
 
