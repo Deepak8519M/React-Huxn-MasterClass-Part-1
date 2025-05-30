@@ -6,17 +6,17 @@ This repository is dedicated to tracking my learning journey through the **Huxn 
 
 The course focuses on:
 
-- Building modern web applications using **React JS**
+- Building modern web applications using `**React JS**`
 - Understanding the core fundamentals and hooks
 - Implementing state management using React features
 - Enhancing reusability with custom hooks
-- Practical examples and UI implementations
+- Practical examples and `UI implementations`
 
 ---
 
 ## 📅 `Current Progress`
 
-- **Total Course Length**: ~13 Hours  
+- **Total Course Length**: ~12 Hours  
 - **Completed**: ✅ First 4 Hours  
 - **Remaining**: ⏳ ~9 Hours
 
