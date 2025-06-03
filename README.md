@@ -1,6 +1,6 @@
 # 🚀 `Huxn WebDev React JS Course – Part 1 (Progress Tracker)`
 
-This repository is dedicated to tracking my learning journey through the **Huxn WebDev React JS Course – Part 1**. The complete Part 1 spans approximately **13 hours** and covers a wide range of React fundamentals and advanced concepts.
+This repository is dedicated to tracking my learning journey through the **Huxn WebDev React JS Course – Part 1**. The complete Part 1 spans approximately **13 hours** and covers a wide range of `React fundamentals` and `advanced concepts.`
 
 ## ✅ `Course Overview`
 
@@ -8,7 +8,7 @@ The course focuses on:
 
 - Building modern web applications using `**React JS**`
 - Understanding the core fundamentals and hooks
-- Implementing state management using React features
+- Implementing `state management` using `React features`
 - Enhancing reusability with custom hooks
 - Practical examples and `UI implementations`
 
@@ -26,12 +26,12 @@ The course focuses on:
 
 ### ✅ `React Basics`
 - JSX
-- Components (Functional)
+- Components `(Functional)`
 - Props & Events
 - State basics
 
 ### ✅ `React Hooks Covered`
-- `useState` – Managing local state in components
+- `useState` – Managing `local state` in components
 - `useReducer` – Managing more complex state logic
 - `useEffect` – Side effects, lifecycle simulation
 - `useId` – Generating unique IDs (great for accessibility or form fields)
