@@ -35,7 +35,7 @@ The course focuses on:
 - `useReducer` – Managing more complex state logic
 - `useEffect` – Side effects, lifecycle simulation
 - `useId` – Generating unique IDs (great for accessibility or form fields)
-- `useRef` – Referencing DOM elements and storing mutable values
+- `useRef` – Referencing `DOM elements` and storing `mutable values`
 - Custom Hooks – Creating reusable logic across components
 
 ---
