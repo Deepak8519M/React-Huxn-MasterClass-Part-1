@@ -1,6 +1,6 @@
 # 🚀 `Huxn WebDev React JS Course – Part 1 (Progress Tracker)`
 
-This repository is dedicated to tracking my `learning journey` through the **`Huxn WebDev React JS Course – Part 1`**. The `complete Part 1` spans approximately **`13 hours`** and covers a wide range of `React fundamentals` and `advanced concepts.`
+This Repository is dedicated to tracking my `learning journey` through the **`Huxn WebDev React JS Course – Part 1`**. The `complete Part 1` spans approximately **`13 hours`** and covers a wide range of `React fundamentals` and `advanced concepts.`
 
 ## ✅ `Course Overview`
 
